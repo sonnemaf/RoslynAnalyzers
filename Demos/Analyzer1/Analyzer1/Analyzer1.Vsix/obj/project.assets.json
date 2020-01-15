@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Analyzer1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Analyzer1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analyzer1.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Analyzer1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Analyzer1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analyzer1.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Analyzer1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Analyzer1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analyzer1.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Analyzer1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Analyzer1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analyzer1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analyzer1/1.0.0": {
+      "type": "project",
+      "path": "../Analyzer1/Analyzer1.csproj",
+      "msbuildProject": "../Analyzer1/Analyzer1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Analyzer1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\FonsS\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\Analyzer1\\Analyzer1\\Analyzer1.Vsix\\Analyzer1.Vsix.csproj",
+      "projectName": "Analyzer1.Vsix",
+      "projectPath": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\Analyzer1\\Analyzer1\\Analyzer1.Vsix\\Analyzer1.Vsix.csproj",
+      "packagesPath": "C:\\Users\\FonsS\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\Analyzer1\\Analyzer1\\Analyzer1.Vsix\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\FonsS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\Analyzer1\\Analyzer1\\Analyzer1\\Analyzer1.csproj": {
+              "projectPath": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\Analyzer1\\Analyzer1\\Analyzer1\\Analyzer1.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

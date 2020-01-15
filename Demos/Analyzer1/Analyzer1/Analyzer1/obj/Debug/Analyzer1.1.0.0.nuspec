@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Analyzer1</id>
+    <version>1.0.0</version>
+    <authors>Fons Sonnemans</authors>
+    <owners>Fons Sonnemans</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>Analyzer1</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>Analyzer1, analyzers</tags>
+    <repository url="http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\tools\install.ps1" target="tools\install.ps1" />
+    <file src="D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+  </files>
+</package>

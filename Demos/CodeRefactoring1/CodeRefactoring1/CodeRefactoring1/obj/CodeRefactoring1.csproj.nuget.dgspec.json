@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1.csproj",
+        "projectName": "CodeRefactoring1",
+        "projectPath": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1.csproj",
+        "packagesPath": "C:\\Users\\FonsS\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Training\\Microsoft.NET\\Code Quality\\Demos\\CodeRefactoring1\\CodeRefactoring1\\CodeRefactoring1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FonsS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

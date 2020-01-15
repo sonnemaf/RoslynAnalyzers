@@ -1,0 +1,12 @@
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\tools\install.ps1
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\tools\uninstall.ps1
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.deps.json
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.dll
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.pdb
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.csprojAssemblyReference.cache
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.Resources.resources
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.csproj.GenerateResource.cache
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.AssemblyInfoInputs.cache
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.AssemblyInfo.cs
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.dll
+D:\Projects\Training\Microsoft.NET\Code Quality\Demos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.pdb
